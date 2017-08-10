@@ -1,0 +1,85 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <br>#파이썬에서는 문자를 단일인용부호(')나 다중인용부호(")로 묶어서 표현
+
+    <br>#다량의 문자열에서는 """나 '''가 사용되기도 하며 줄바꿈이나 탭도 그대로 적용 된다
+
+    <br>print(""" 영원에 살고 순간에 살아라,
+     <br>영원히 살 것처럼 일하고 금방 죽을 것 처럼 사람들을 대하라
+        <br>                                        -리히텐베르크""")
+
+
+<br>    #"""나 '''를 사용하지 않고 특수문자 사용은 다음 이스케이프 문자로 표현 가능
+    <br># \n     줄바꿈
+    <br># \t     탭
+    <br># \r     캐리지 변환
+    <br># \0     널(Null)
+    <br># \\     문자'\'
+    <br># \'     단일 인용부호
+    <br># \''    이중 인용부호
+
+    <br>print("\t탭 \n다음줄")
+
+    <br>#r를 붙혀서 raw문자열로 선언 가능하며 이스케이프 문자가 적용되지 않는다
+
+    <br>print(r"\t탭 \n다음줄")
+
+    <br>#문자열도 연산자를 지원한다
+
+    <br># + 예제 (+ 는 문자열에서는 생략 가능)
+    <br>ex1 = 'py''thon'
+    <br>print(ex1)
+    <br>ex2 = 'py' + 'thon'
+    <br>print(ex2)
+    <br># * 예제
+    <br>ex3 = 'py'*3
+    <br>print(ex3)
+
+    <br>#문자열에서 indexing이 가능
+    <br>#제일 첫 문자의 위치는 0부터 시작
+    <br>#인덱싱을 이용한 문자열 변경은 불가능하며 문자열 전체를 변경할때는 가능하다
+
+    <br>a = 'python'
+    <br>print(a[0],a[5])
+
+    <br>#Slicing으로 문자열을 꺼낼수도 있다.
+    <br>#변수뒤에 [시작위치:끝위치]를 붙인다
+    <br>#제일 처음바깥쪽이 0이되며 한칸씩 증가한다
+    <br>#음수로 시작해도 동일하다
+
+    <br>a = 'python'
+    <br>print(a[0:1])
+    <br>print(a[1:4])
+    <br>print(a[:2])
+    <br>print(a[-6:])
+
+    <br>#증가 여부도 나타낼수 있다
+
+    <br>print(a[::2])
+
+    <br>#문자열이나 수치간의 변화는 각 타입 클래스의 생성자를 이용하면 가능하다
+
+    <br>print(str(3.14))
+    <br>print(int("49"))
+    <br>print(float(23))
+
+
+<br>
+<br>
+<a href="https://www.codeonweb.com/" id="popup"><button type="button">소스쳐보기</button></a>
+<script>
+$("#popup").click(function(e){
+  e.preventDefault();
+  window.open($(this).attr("href"));
+  });
+</script>
+<br>
+<br>
+<br>
+<a href="http://localhost/html/python-2장.html">돌아가기</a>
+  </body>
+</html>

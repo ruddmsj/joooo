@@ -1,0 +1,51 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    #int는 정수(integer)를 의미한다  10진수 정수로 인식
+    <br>
+    year = 2017
+    <br>
+    month = 12
+    <br>print(year, month) # 2017 12
+
+    <br>#0o = 8진수  0b = 2진수  0x = 16진수
+    <br>print(0o10, 0x10, 0b10) # 8 16 2
+
+    <br>#10 진수를 입력 받아서 원하는 진수로 변환 하는 함수
+    <br>print(oct(38)) # 8진수 0o46
+    <br>print(hex(38)) # 16진수 0x26
+    <br>print(bin(38)) # 2진수 0b100110
+
+    <br><br>#python 3형에서는 long형이 사라지고 모두 int형으로 대체
+    <br>print(type(1)) # <class 'int'>
+    <br>print(type(2**31)) # <class 'int'>
+    <br>print(type(3.14)) # <class 'float'>
+    <br>print(type(314e-2)) # <class 'float'>  314e-2 는 지수형
+
+    <br><br>#복소수를 나타내는 법
+    <br>x = 3-4j
+    <br>print(type(x)) # <class 'complex'>
+    <br>print(x.imag) # -4.0
+    <br>print(x.real) # 3.0
+    <br>print(x.conjugate()) # (3+4j)  conjugate() = 켤레복소수를 만드는 메소드
+
+    <br># 연산자 + - * / % **(거듭제곱) //(정수나누기 : 나눈후 정수 부분만을 결과로 취함)
+
+<br>
+<br>
+<a href="https://www.codeonweb.com/" id="popup"><button type="button">소스쳐보기</button></a>
+<script>
+$("#popup").click(function(e){
+  e.preventDefault();
+  window.open($(this).attr("href"));
+  });
+</script>
+<br>
+<br>
+<br>
+<a href="http://localhost/html/python-2장.html">돌아가기</a>
+  </body>
+</html>
