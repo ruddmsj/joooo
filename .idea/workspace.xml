@@ -2,7 +2,91 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5365c39c-afce-4289-afc4-f2ea8e569509" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python_ex1.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/2장(변수)/python_ex2-01(변수명).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/2장(변수)/python_ex2-02(수치).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/2장(변수)/python_ex2-03(문자).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/2장(변수)/python_ex2-04(유니코드).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/2장(변수)/python_ex2-05(리스트).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/2장(변수)/python_ex2-06(세트).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/2장(변수)/python_ex2-07(튜플).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/2장(변수)/python_ex2-08(사전).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/2장(변수)/python_ex2-09(부울).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/2장(변수)/python_ex2-10(얕은 복사와 깊은 복사).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/3장(함수)/python_ex3-01(함수의 정의).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/3장(함수)/python_ex3-02(return).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/3장(함수)/python_ex3-03(인자 전달).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/3장(함수)/python_ex3-04(스코핑 룰).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/3장(함수)/python_ex3-05(함수 인자).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/3장(함수)/python_ex3-06(람다 함수).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/3장(함수)/python_ex3-07(재귀적 함수 호출).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/3장(함수)/python_ex3-08(pass).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/3장(함수)/python_ex3-09(__doc__ 속성과 help 함수).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/3장(함수)/python_ex3-10(이터레이터).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/3장(함수)/python_ex3-11(제너레이터).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/4장(제어)/python_ex4-01(if 문).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/4장(제어)/python_ex4-02(조건식의 판단).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/4장(제어)/python_ex4-03(단축 평가).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/4장(제어)/python_ex4-04(while 문).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/4장(제어)/python_ex4-05(for 문).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/4장(제어)/python_ex4-06(break,continue,else).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/4장(제어)/python_ex4-07(제어문과 연관된 유용한 함수).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/5장(클래스)/python_ex5-01(클래스 이야기).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/5장(클래스)/python_ex5-02(클래스 선언).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/5장(클래스)/python_ex5-03(클래스 객체와 인스턴스 객체의 이름공간).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/5장(클래스)/python_ex5-04(클래스 객체와 인스턴스 객체의 관계).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/5장(클래스)/python_ex5-05(생성자,소멸자 메서드).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/5장(클래스)/python_ex5-06(정적 메서드, 클래스 메서드).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/5장(클래스)/python_ex5-07(연산자 중복 정의).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/5장(클래스)/python_ex5-08(상속).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/6장(모듈)/python_ex6-01(모듈 사용하기).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/6장(모듈)/python_ex6-02(모듈 만들기).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/6장(모듈)/python_ex6-03(모듈의 경로).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/6장(모듈)/python_ex6-04(모듈 임포트).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/6장(모듈)/python_ex6-05(모듈 임포트 파헤치기).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/6장(모듈)/python_ex6-06(__main__을 사용한 유용한 팁).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/6장(모듈)/python_ex6-07(패키지).py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/python/6장(모듈)/simpleset.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 1. 머신러닝의 개념과 용어/Lab01-TensorFlow Basics.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 1. 머신러닝의 개념과 용어/Tensorflow_ex1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 1. 머신러닝의 개념과 용어/lec1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 10. Neural Network 2 ReLU and 초기값 정하기 (20062007 breakthrough)/Lab10-NN, ReLu, Xavier, Dropout, and Adam.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 10. Neural Network 2 ReLU and 초기값 정하기 (20062007 breakthrough)/lec10.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 11. Convolutional Neural Networks/Lab11-CNN.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 11. Convolutional Neural Networks/lec11.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 12. Recurrent Neural Network/lec12 - 복사본.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 12. Recurrent Neural Network/lec12.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 2. LInear Regression의 개념/Lab02-Linear Regression.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 2. LInear Regression의 개념/Tensorflow_ex2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 2. LInear Regression의 개념/lec2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 3. Linear Regression cost 함수 최소화/Lab03-Minimizing Cost.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 3. Linear Regression cost 함수 최소화/Tensorflow_ex3.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 3. Linear Regression cost 함수 최소화/lec3.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 4. 여러개의 입력(feature)의 Linear Regression/Lab04-Multi-variable linear regression.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 4. 여러개의 입력(feature)의 Linear Regression/Lec04-Multivariable linear regression.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 4. 여러개의 입력(feature)의 Linear Regression/Tensorflow_ex4-2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 4. 여러개의 입력(feature)의 Linear Regression/Tensorflow_ex4.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 4. 여러개의 입력(feature)의 Linear Regression/data-01-test-score.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 5. Logistic (Regression) Classification/Lab05-Logistic (regression) classifier.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 5. Logistic (Regression) Classification/Tensorflow_ex5.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 5. Logistic (Regression) Classification/lec5.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 6. Softmax Regression (Multinomial Logistic Regression)/Lab06-Softmax classifier.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 6. Softmax Regression (Multinomial Logistic Regression)/Tensorflow_ex6-1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 6. Softmax Regression (Multinomial Logistic Regression)/Tensorflow_ex6-2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 6. Softmax Regression (Multinomial Logistic Regression)/lec6.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 7. ML의 실용과 몇가지 팁/Lab07-Learning rate, Evaluation, MNIST.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 7. ML의 실용과 몇가지 팁/Tensorflow_ex7-1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 7. ML의 실용과 몇가지 팁/lec7.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 8. 딥러닝의 기본 개념과, 문제, 그리고 해결/Lab08-Tensor Manipulation .pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 8. 딥러닝의 기본 개념과, 문제, 그리고 해결/lec8.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 9. Neural Network 1 XOR 문제와 학습방법, Backpropagation/Lab09-NN for XOR, TensorBoard, BackProp.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 9. Neural Network 1 XOR 문제와 학습방법, Backpropagation/Tensorflow_ex9-1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/모두의 딥러닝/섹션 9. Neural Network 1 XOR 문제와 학습방법, Backpropagation/lec9.pdf" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/joooo.iml" afterPath="$PROJECT_DIR$/.idea/joooo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/.idea/workspace.xml" afterPath="$PROJECT_DIR$/TPK(ByongSeop)/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/Bitnami/wampstack-5.6.31-0/apache2/logs/access.log" afterPath="$PROJECT_DIR$/TPK(ByongSeop)/Bitnami/wampstack-5.6.31-0/apache2/logs/access.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TPK(ByongSeop)/Bitnami/wampstack-5.6.31-0/apache2/logs/error.log" afterPath="$PROJECT_DIR$/TPK(ByongSeop)/Bitnami/wampstack-5.6.31-0/apache2/logs/error.log" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,18 +97,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="python_ex1.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python_ex1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,10 +117,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
-    <option name="y" value="3" />
-    <option name="width" value="1400" />
-    <option name="height" value="1030" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -64,7 +137,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -76,14 +149,37 @@
               <option name="myItemId" value="joooo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="갱은" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joooo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="joooo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TPK(ByongSeop)" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Anaconda3/envs/TensorFlow/python.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -203,26 +299,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="3" width="1400" height="1030" extended-state="1" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963716" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -234,13 +329,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python_ex1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/python_ex1.py" />
   </component>
 </project>
